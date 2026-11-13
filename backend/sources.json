@@ -1,0 +1,121 @@
+[
+  {
+    "name": "Nichable — Albany & Capital Region (12210)",
+    "source_type": "nichable",
+    "target": "https://nichable.app/local/albany",
+    "area_hint": "Albany, NY",
+    "enabled": true
+  },
+  {
+    "name": "Nichable — New York State High School Programs",
+    "source_type": "nichable",
+    "target": "https://nichable.app/local/new-york",
+    "area_hint": "New York, NY",
+    "enabled": true
+  },
+  {
+    "name": "Nichable — High School Internships Directory",
+    "source_type": "nichable",
+    "target": "https://nichable.app/opportunities?category=internship",
+    "area_hint": "United States",
+    "enabled": true
+  },
+  {
+    "name": "NY STEM Research Consortium (SRMC)",
+    "source_type": "studentresearchnyc",
+    "target": "https://www.studentresearchnyc.org/programs/",
+    "area_hint": "New York, NY",
+    "enabled": true
+  },
+  {
+    "name": "NY CREATES — Albany NanoTech (RSS)",
+    "source_type": "rss",
+    "target": "https://nycreates.interviewexchange.com/jobsrss.jsp?COMPANYID=579",
+    "area_hint": "Albany, NY",
+    "enabled": true
+  },
+  {
+    "name": "StandOutSearch High School Directory",
+    "source_type": "standoutsearch",
+    "target": "https://www.standoutsearch.com/",
+    "area_hint": "United States",
+    "enabled": true
+  },
+  {
+    "name": "Pathways to Science (High School STEM)",
+    "source_type": "pathwaystoscience",
+    "target": "https://www.pathwaystoscience.org/programs.aspx?u=HighSchool_High%20School%20Students&submit=y",
+    "area_hint": "United States",
+    "enabled": true
+  },
+  {
+    "name": "HighSchool-CS-Opportunities (GitHub)",
+    "source_type": "github_markdown",
+    "target": "https://raw.githubusercontent.com/saatvikKundoor/HighSchool-CS-Opportunities/main/README.md",
+    "area_hint": "United States",
+    "enabled": true
+  },
+  {
+    "name": "Highschool-Internships Directory (GitHub)",
+    "source_type": "github_markdown",
+    "target": "https://raw.githubusercontent.com/Declipsonator/Highschool-Internships/main/README.md",
+    "area_hint": "United States",
+    "enabled": true
+  },
+  {
+    "name": "CodePath (Greenhouse)",
+    "source_type": "greenhouse",
+    "target": "codepath",
+    "area_hint": "Remote",
+    "enabled": true
+  },
+  {
+    "name": "Remotive Remote Internships",
+    "source_type": "remotive",
+    "target": "intern",
+    "area_hint": "Remote",
+    "enabled": true
+  },
+  {
+    "name": "Wikimedia Foundation (Greenhouse)",
+    "source_type": "greenhouse",
+    "target": "wikimedia",
+    "area_hint": "Remote / San Francisco, CA",
+    "enabled": true
+  },
+  {
+    "name": "Figma (Greenhouse)",
+    "source_type": "greenhouse",
+    "target": "figma",
+    "area_hint": "San Francisco, CA / New York, NY",
+    "enabled": true
+  },
+  {
+    "name": "Cloudflare (Greenhouse)",
+    "source_type": "greenhouse",
+    "target": "cloudflare",
+    "area_hint": "Austin, TX / San Francisco, CA",
+    "enabled": true
+  },
+  {
+    "name": "Databricks (Greenhouse)",
+    "source_type": "greenhouse",
+    "target": "databricks",
+    "area_hint": "San Francisco, CA / Seattle, WA",
+    "enabled": true
+  },
+  {
+    "name": "Palantir (Lever)",
+    "source_type": "lever",
+    "target": "palantir",
+    "area_hint": "New York, NY / Washington, DC",
+    "enabled": true
+  },
+  {
+    "name": "Notion (Ashby)",
+    "source_type": "ashby",
+    "target": "notion",
+    "area_hint": "San Francisco, CA / New York, NY",
+    "enabled": true
+  }
+]
